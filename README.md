@@ -29,6 +29,7 @@ This project implements an AHB to APB Bridge using Verilog HDL. The bridge enabl
 * ModelSim
 * Quartus Prime
 
+
 ## Results
 
 The design was successfully simulated and verified for both read and write operations. Synthesis was completed successfully and timing requirements were met.
