@@ -1,4 +1,4 @@
-// =============================================================================
+// ============================================================================
 //  APB Slave Mux
 //  Selects PRDATA from the correct slave based on PSEL
 //  Place at top level between bridge and peripherals
